@@ -2,10 +2,19 @@
 
 Using Logistic regression, SVM's, and Neural Networks to classify images!
 
+By Thaison Le and Berry Liu
 
 # Results:
+### Logistic Model
 ![](https://github.com/BerryLiu2002/MLProject/blob/main/write_up.png)
-Detailed write up here: ![](https://github.com/BerryLiu2002/MLProject/blob/main/write_up.pdf)
+<br>
+### SVM Model
+![](https://github.com/BerryLiu2002/MLProject/blob/main/write_up2.png)
+
+### Neural Network Model
+![](https://github.com/BerryLiu2002/MLProject/blob/main/write_up3.png)
+<br>
+Detailed write up here: ![Write Up](https://github.com/BerryLiu2002/MLProject/blob/main/write_up.pdf)
 
 # Live Demo
 
